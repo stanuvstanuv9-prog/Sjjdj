@@ -1,7 +1,6 @@
 #profile-title: LUKAS VPN
 #profile-update-interval: 1
-#announce: LUKAS VPN помогает обойти глушилки
-и скачать пак от хамстера
+#announce: LUKAS VPN помогает обойти глушилки и играть в бравл старс
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%40Homyak_vpn_robotbot
